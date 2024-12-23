@@ -1,5 +1,5 @@
 # afetch
-Minimal system information tool
+Minimal system information tool for Arch Linux
 
 ## Usage
 `./afetch.sh`
